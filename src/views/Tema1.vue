@@ -13,100 +13,100 @@
     img(src='@/assets/curso/t1/f1.svg' alt='Paradigmas educativos').mb-5
 
     p.mb-5 Ahora veamos los paradigmas del mundo contemporáneo, a través de una presentación evolutiva de los mismos hasta llegar al STEM:
-    TabsC.color-primario.mb-5
-      .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Conductista")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 El Paradigma Conductista
-            p Este paradigma tiene como máximos representantes a Pavlov, Skinner, Waston, en este paradigma el alumno es participativo, obediente y receptor de la información, es dependiente del conocimiento y necesita todo el tiempo ser reforzado, considera que la conducta puede observarse, medirse y condicionarse, además, el entorno puede influir en el comportamiento y conducta observable.  El docente es estricto, autoritario, observa y tiene la razón y es quien transmite el conocimiento.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f2.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Cognoscitivista (1920 – 1960)")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 El Paradigma Cognoscitivista (1920 – 1960)
-            p El aprendizaje en este paradigma ocurre mediante la construcción gradual de conocimientos, que ocurre gracias a la puesta en relación de los anteriores con los nuevos conocimientos.  Exige la organización de estos.  Se efectúa a partir de tareas globales.  Sus principales representantes se encuentran:
-            img(src='@/assets/curso/t1/f3-txt.svg' alt='Asimilación y acomodación')
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f3.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="Jerome Bruner")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 Jerome Bruner
-            p El aprendizaje es el proceso de reordenar o transformar los datos de modo que permitan irá a una nueva comprensión, denominado aprendizaje por descubrimiento, se destaca la capacidad para resolver problemas que es la meta principal, el conocimiento verbal es la clave de la transferencia, el método de descubrimiento es el principal para transmitir el conocimiento.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f4.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="David Ausubel")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 David Ausubel
-            p El aprendizaje significativo es el mecanismo humano por excelencia para adquirir y almacenar la inmensa cantidad de ideas e información representadas en cualquier campo de conocimiento.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f5.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="Robert Gagne")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 Robert Gagne
-            p Considera la teoría del aprendizaje como tal como el resultado de la interrelación entre persona y ambiente, siendo un cambio de tipo comportamental, conductual e incluso de disposición o actitud respecto a una parte o la totalidad de la realidad.  Dicho cambio es mantenido en el tiempo como consecuencia de la interacción entre persona y ambiente, no siendo debido únicamente a cambios madurativos sino a la vivencia de experiencias y repetición de éstas.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f6.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="H. Gardner")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 H. Gardner
-            p Plantea las teorías de las inteligencias múltiples y sugiere un número de formas distintas para que el individuo aprenda (Lingüístico, musical, lógico-matemático, espacial, kinestésico, intrapersonal e interpersonal (habilidades sociales)
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f7.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="George Siemen")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 George Siemen
-            p Es una teoría del aprendizaje para la era digital, que toma como base el análisis de las limitaciones del conductismo, el cognitivismo y el constructivismo, para explicar el efecto que la tecnología ha tenido sobre la manera en que actualmente vivimos, nos comunicamos y aprendemos. Es la integración de los principios explorados por las teorías del caos, redes neuronales, complejidad y auto-organización. Éste se enfoca en la inclusión de tecnología como parte de nuestra distribución de cognición y conocimiento.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f8.png' alt='imagen relacionada')
-      .py-3.py-md-4.bg-img-banner(titulo="Educación STEM")
-        .row.justify-content-center.align-items-center.texto-blanco
-          .col-lg-7
-            h3 Educación STEM
-            p En el año 1990 en los Estados Unidos surge en la Fundación Nacional para la Ciencias <em>(National Science Fundation)</em> - NSF la idea de acuñar las asignaturas de Ciencia, Tecnología con Ingeniería y las Matemáticas, presentando cambios en la forma en que se debe enseñar más acorde a la forma en que vemos nuestra realidad actual, donde los avances tecnológicos son tan amplios que no alcanzamos asimilar todos los impactos en la sociedad.
-          .col-lg-4.px-5
-            figure
-              img(src='@/assets/curso/t1/f9.svg' alt='STEM')
 
     .contenedor.bg2.traslapeTop
+      TabsC.color-primario.mb-5
+        .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Conductista")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 El Paradigma Conductista
+              p Este paradigma tiene como máximos representantes a Pavlov, Skinner, Waston, en este paradigma el alumno es participativo, obediente y receptor de la información, es dependiente del conocimiento y necesita todo el tiempo ser reforzado, considera que la conducta puede observarse, medirse y condicionarse, además, el entorno puede influir en el comportamiento y conducta observable.  El docente es estricto, autoritario, observa y tiene la razón y es quien transmite el conocimiento.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f2.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Cognoscitivista (1920 – 1960)")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 El Paradigma Cognoscitivista (1920 – 1960)
+              p El aprendizaje en este paradigma ocurre mediante la construcción gradual de conocimientos, que ocurre gracias a la puesta en relación de los anteriores con los nuevos conocimientos.  Exige la organización de estos.  Se efectúa a partir de tareas globales.  Sus principales representantes se encuentran:
+              img(src='@/assets/curso/t1/f3-txt.svg' alt='Asimilación y acomodación')
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f3.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="Jerome Bruner")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 Jerome Bruner
+              p El aprendizaje es el proceso de reordenar o transformar los datos de modo que permitan irá a una nueva comprensión, denominado aprendizaje por descubrimiento, se destaca la capacidad para resolver problemas que es la meta principal, el conocimiento verbal es la clave de la transferencia, el método de descubrimiento es el principal para transmitir el conocimiento.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f4.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="David Ausubel")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 David Ausubel
+              p El aprendizaje significativo es el mecanismo humano por excelencia para adquirir y almacenar la inmensa cantidad de ideas e información representadas en cualquier campo de conocimiento.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f5.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="Robert Gagne")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 Robert Gagne
+              p Considera la teoría del aprendizaje como tal como el resultado de la interrelación entre persona y ambiente, siendo un cambio de tipo comportamental, conductual e incluso de disposición o actitud respecto a una parte o la totalidad de la realidad.  Dicho cambio es mantenido en el tiempo como consecuencia de la interacción entre persona y ambiente, no siendo debido únicamente a cambios madurativos sino a la vivencia de experiencias y repetición de éstas.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f6.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="H. Gardner")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 H. Gardner
+              p Plantea las teorías de las inteligencias múltiples y sugiere un número de formas distintas para que el individuo aprenda (Lingüístico, musical, lógico-matemático, espacial, kinestésico, intrapersonal e interpersonal (habilidades sociales)
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f7.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="George Siemen")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 George Siemen
+              p Es una teoría del aprendizaje para la era digital, que toma como base el análisis de las limitaciones del conductismo, el cognitivismo y el constructivismo, para explicar el efecto que la tecnología ha tenido sobre la manera en que actualmente vivimos, nos comunicamos y aprendemos. Es la integración de los principios explorados por las teorías del caos, redes neuronales, complejidad y auto-organización. Éste se enfoca en la inclusión de tecnología como parte de nuestra distribución de cognición y conocimiento.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f8.png' alt='imagen relacionada')
+        .py-3.py-md-4.bg-img-banner(titulo="Educación STEM")
+          .row.justify-content-center.align-items-center.texto-blanco
+            .col-lg-7
+              h3 Educación STEM
+              p En el año 1990 en los Estados Unidos surge en la Fundación Nacional para la Ciencias <em>(National Science Fundation)</em> - NSF la idea de acuñar las asignaturas de Ciencia, Tecnología con Ingeniería y las Matemáticas, presentando cambios en la forma en que se debe enseñar más acorde a la forma en que vemos nuestra realidad actual, donde los avances tecnológicos son tan amplios que no alcanzamos asimilar todos los impactos en la sociedad.
+            .col-lg-4.px-5
+              figure
+                img(src='@/assets/curso/t1/f9.svg' alt='STEM')
+
       .row.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4(data-aos='fade-right')
           figure
             img(src='@/assets/curso/t1/f10.png' alt='imagen relacionada')
         .col-lg-8
           p Según Purzer, en la reflexión realizada ante la Fundación Nacional para la Ciencias, se mostró cómo la sociedad de los Estados Unidos, líder mundial en muchos campos y desarrollos tecnológicos, en especial en la innovación, se estaba quedando atrás en los avances socioeconómicos. Dentro de las conclusiones más relevantes estaban:
-          ul.lista-ul
+          ul.lista-ul.ms-4
             li 
-              i.fas.fa-robot.cp
-              | ●	En la actualidad la sociedad estadounidense cuenta con científicos, ingenieros y técnicos y otras profesiones que fueron formados con el mundo desarrollado hace treinta cuatro años atrás.
+              i.fas.fa-robot.cp.me-4
+              | En la actualidad la sociedad estadounidense cuenta con científicos, ingenieros y técnicos y otras profesiones que fueron formados con el mundo desarrollado hace treinta cuatro años atrás.
             li 
-              i.fas.fa-robot.cp
-              | ●	El contraste de la formación recibida y la realidad actual nos permite que tomen decisiones acertadas para continuar manteniendo el desarrollo y el liderazgo mundial.
+              i.fas.fa-robot.cp.me-4
+              | El contraste de la formación recibida y la realidad actual nos permite que tomen decisiones acertadas para continuar manteniendo el desarrollo y el liderazgo mundial.
             li 
-              i.fas.fa-robot.cp
-              | ●	Los nuevos avances configuran nuevas situaciones como la posibilidad del trabajo remoto, lo que genera en las empresas la necesidad de estar interconectadas, ya sé porque sus empleados trabajan desde casa o porque las sedes de sus empresas quedan ubicadas en diferentes lugares del mundo, estas nuevas necesidades demandas nuevas formas de enfrentar la realidad y exige el fortalecimiento y desarrollo de ciertas habilidades.
+              i.fas.fa-robot.cp.me-4
+              | Los nuevos avances configuran nuevas situaciones como la posibilidad del trabajo remoto, lo que genera en las empresas la necesidad de estar interconectadas, ya sé porque sus empleados trabajan desde casa o porque las sedes de sus empresas quedan ubicadas en diferentes lugares del mundo, estas nuevas necesidades demandas nuevas formas de enfrentar la realidad y exige el fortalecimiento y desarrollo de ciertas habilidades.
 
       #t_1_1.titulo-segundo
         h2 1.1 Generalidades de la educación
 
-      .row.align-items-center
-        .col-lg-5.fcs.border134.text-center
-          i.fas.fa-quote-left.cab.text-big
-          p La educación va de la mano con la evolución del ser humano; todas las sociedades por más primitivas que sean se apoyan en la enseñanza. Podríamos asegurar que la educación asume su origen en las comunidades primitivas y el punto de referencia lo encontramos cuando el ser humano pasa de vivir un estilo de vida nómada a establecerse y ser sedentario; donde ya se beneficia de sus primeras labores, como la caza y la pesca, la agricultura y la recolección de sus alimentos y sobre todo de su supervivencia. 
-          h6.text-right Según Ferrer (2005). 
-          |  <i class="fas fa-square cab"></i>
+      .row
+        .col-lg-5.fcs.border134.p-5
+          p.text-center <i class="fas fa-quote-left cac text-big"></i>
+          p.text-white.text-center La educación va de la mano con la evolución del ser humano; todas las sociedades por más primitivas que sean se apoyan en la enseñanza. Podríamos asegurar que la educación asume su origen en las comunidades primitivas y el punto de referencia lo encontramos cuando el ser humano pasa de vivir un estilo de vida nómada a establecerse y ser sedentario; donde ya se beneficia de sus primeras labores, como la caza y la pesca, la agricultura y la recolección de sus alimentos y sobre todo de su supervivencia. 
+          h6.text-right <span class='text-white'>Según Ferrer (2005).</span> <i class="fas fa-square cac ms-5" style='font-size: 2rem; vertical-align:middle;'></i>
         .col-lg-7
           img(src='@/assets/curso/t1/f11.png' alt='niños alzando la mano').mb-4
           p.px-4 Podemos observar que en la actualidad se sigue enseñando de la misma manera planeada por los griegos y romanos, quienes consideraban la retórica y la oratoria como un aspecto fundamental de aprender, configuran así la escuela en un aula, un maestro o luz de sabiduría que guía a sus aprendices por el camino del conocimiento, que han sido configurados por caminos separados, considerando que se deben aprender en sus espacios establecidos.
@@ -117,10 +117,10 @@
     #t_1_2.titulo-segundo
       h2 1.2 Descripción de las características del entorno educativo colombiano
 
-    .row.justify-content-center.mb-5.traslapeLoR
+    .row.justify-content-center.mb-5.traslapeLoR.align-items-center
       .col-lg-9
         img(src='@/assets/curso/t1/f12.png' alt='imagen relacionada').mb-4
-      .col-lg-6.border123.fblanco.p-5.boxShadow
+      .col.col-lg-6.border123.fblanco.p-5.boxShadow
         p Colombia surge como nación a partir de su descubrimiento, colonización e independencia, la cual inicia con un proceso de imposición cultural, social, política y económica de influencia europea, lo que no le permitió desde sus inicios construir su propia identidad como nación, la historia de la educación y su conformación también relacionada a estos factores; que solamente se configura después de la independencia con la constitución del 1886, donde el estado delegó la educación a la iglesia católica, la cual instauró las primeras bases educativas en el desarrollo del individuo para servir en función de la sociedad, los primeros planes de estudio, estaban configurados para actividades como el aseo personal, uso y manejo de las buenas costumbres y modales, lectura, escritura y conceptos de aritmética básica para presentarse en sociedad, los aspectos del entorno y el contexto colombiano no fueron tenidos en cuenta, por lo tanto el acceso a esta educación está destinado a las clases sociales denominadas altas u oligárquicas. 
 
     p.mb-5 Conozcamos algunos hitos del entorno de la educación en Colombia a través del tiempo:
