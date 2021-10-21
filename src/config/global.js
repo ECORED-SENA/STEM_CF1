@@ -399,6 +399,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
@@ -409,7 +415,7 @@ export default {
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      },*/
     ],
     gestoresRepositorio: [
       {
