@@ -7,65 +7,71 @@
       .titulo-principal__numero
         span 3
       h1 La educación STEM y el desarrollo de la economía circular
- 
-    .row.align-items-center.mb-5
-      .col-lg-4
-        figure
-          img(src='@/assets/curso/t3/f1.svg' alt='STEM')
-      .col-lg-8
-        p La educación STEM es relativamente nueva a nivel mundial. Sin embargo, si echamos una mirada a los países con mejor desempeño en los resultados de las pruebas PISA (China, Taiwán, Japón, Singapur, Corea del Sur, Canadá, Alemania, Finlandia, Francia, Reino Unido, Brasil, Australia) podemos ver cómo sus propuestas educativas nacionales, tienen una relación con los cambios constantes de los mercados y los avances de manera vertiginosa de la ciencia y la tecnología presentan retos comunes para todos los países, es aquí donde la Educación STEM, presenta sus bondades:
 
-        #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
-          .carousel-indicators
-            button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
-            button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
-            button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='2' aria-label='Slide 3')
-            button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='3' aria-label='Slide 4')
-            button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='4' aria-label='Slide 5')
-          .carousel-inner
-            .carousel-item.active
-              .row.align-items-center.justify-content-center
-                .col-lg-2
-                  figure
-                    img(src='@/assets/curso/t3/f2.svg' alt='imagen relacionada')
-                .col-lg-10
-                  p ●	A nivel mundial se considera a la ciencia y la tecnología como pilares de una economía sostenible y próspera.
-            .carousel-item
-              .row.align-items-center.justify-content-center
-                .col-lg-2
-                  figure
-                    img(src='@/assets/curso/t3/f3.svg' alt='imagen relacionada')
-                .col-lg-10
-                  p ●	La educación STEM con énfasis en la integración de las áreas, brinda una vía sólida para potencializar a los futuros ciudadanos hacia un desarrollo sostenible y próspero a todos los países.
-            .carousel-item
-              .row.align-items-center.justify-content-center
-                .col-lg-2
-                  figure
-                    img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
-                .col-lg-10
-                  p ●	Se presenta una tendencia a la disminución del número de profesionales en las áreas de ciencias, tecnología e ingeniería.
-            .carousel-item
-              .row.align-items-center.justify-content-center
-                .col-lg-2
-                  figure
-                    img(src='@/assets/curso/t3/f5.svg' alt='imagen relacionada')
-                .col-lg-10
-                  p ●	Es fundamental aumentar la participación de la mujer en las áreas de desarrollo de los países, ya que su participación en los puestos de trabajo de liderazgo en Ciencia y Tecnología es muy baja.
-            .carousel-item
-              .row.align-items-center.justify-content-center
-                .col-lg-2
-                  figure
-                    img(src='@/assets/curso/t3/f6.svg' alt='imagen relacionada')
-                .col-lg-10
-                  p ●	La educación STEM debe atraer mayor interés por parte de los aprendices, pero en especial de las niñas a quienes se les debe impulsar su liderazgo en ciencia y tecnología.
-          button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
-          span.carousel-control-prev-icon(aria-hidden='true')
-          span.visually-hidden Previous
-          button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
-          span.carousel-control-next-icon(aria-hidden='true')
-          span.visually-hidden Next
+    .contenedor.traslapeTop.traslapeBottom.bg3 
+      .row.align-items-center.mb-5.t-20rem
+        .col-lg-4
+          figure
+            img(src='@/assets/curso/t3/f1.svg' alt='STEM')
+        .col-lg-8
+          p La educación STEM es relativamente nueva a nivel mundial. Sin embargo, si echamos una mirada a los países con mejor desempeño en los resultados de las pruebas PISA (China, Taiwán, Japón, Singapur, Corea del Sur, Canadá, Alemania, Finlandia, Francia, Reino Unido, Brasil, Australia) podemos ver cómo sus propuestas educativas nacionales, tienen una relación con los cambios constantes de los mercados y los avances de manera vertiginosa de la ciencia y la tecnología presentan retos comunes para todos los países, es aquí donde la Educación STEM, presenta sus bondades:
 
-    .contenedor.traslapeTop.traslapeBottom.bg3
+          #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
+            .carousel-indicators
+              button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='2' aria-label='Slide 3')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='3' aria-label='Slide 4')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='4' aria-label='Slide 5')
+            .carousel-inner
+              .carousel-item.active
+                .col-lg-9.col-md-8.mx-auto
+                  .row.align-items-center.justify-content-center
+                    .col-lg-2.col-md-3
+                      figure
+                        img(src='@/assets/curso/t3/f2.svg' alt='imagen relacionada')
+                    .col
+                      p A nivel mundial se considera a la ciencia y la tecnología como pilares de una economía sostenible y próspera.
+              .carousel-item
+                .col-lg-9.col-md-8.mx-auto
+                  .row.align-items-center.justify-content-center
+                    .col-lg-2.col-md-3
+                      figure
+                        img(src='@/assets/curso/t3/f3.svg' alt='imagen relacionada')
+                    .col
+                      p La educación STEM con énfasis en la integración de las áreas, brinda una vía sólida para potencializar a los futuros ciudadanos hacia un desarrollo sostenible y próspero a todos los países.
+              .carousel-item
+                .col-lg-9.col-md-8.mx-auto
+                  .row.align-items-center.justify-content-center
+                    .col-lg-2.col-md-3
+                      figure
+                        img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
+                    .col
+                      p Se presenta una tendencia a la disminución del número de profesionales en las áreas de ciencias, tecnología e ingeniería.
+              .carousel-item
+                .col-lg-9.col-md-8.mx-auto
+                  .row.align-items-center.justify-content-center
+                    .col-lg-2.col-md-3
+                      figure
+                        img(src='@/assets/curso/t3/f5.svg' alt='imagen relacionada')
+                    .col
+                      p Es fundamental aumentar la participación de la mujer en las áreas de desarrollo de los países, ya que su participación en los puestos de trabajo de liderazgo en Ciencia y Tecnología es muy baja.
+              .carousel-item
+                .col-lg-9.col-md-8.mx-auto
+                  .row.align-items-center.justify-content-center
+                    .col-lg-2.col-md-3
+                      figure
+                        img(src='@/assets/curso/t3/f6.svg' alt='imagen relacionada')
+                    .col
+                      p La educación STEM debe atraer mayor interés por parte de los aprendices, pero en especial de las niñas a quienes se les debe impulsar su liderazgo en ciencia y tecnología.
+            button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
+            span.carousel-control-prev-icon(aria-hidden='true')
+            span.visually-hidden Previous
+            button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
+            span.carousel-control-next-icon(aria-hidden='true')
+            span.visually-hidden Next
+
+    
       h3.cs La economía Circular
       p.mb-5 El nuevo modelo económico denominado economía circular, es un nuevo modelo de producción y consumo que garantiza un crecimiento sostenible en el tiempo, que promueve la optimización de los recursos, la reducción en el consumo de materias primas y el aprovechamiento de los residuos, reciclándolos o dándoles una nueva vida para convertirlos en nuevos productos.
 
@@ -83,11 +89,11 @@
           p En Colombia, en el año 2018, se realizó el lanzamiento de la Estrategia Nacional de Economía Circular, para avanzar en la transformación de las cadenas de producción y consumo, a través del cierre de ciclos de materiales, agua y energía, en nuevos modelos de negocio, con esta iniciativa se promueve la innovación y la generación de valor en sistemas de producción y consumo a través de optimizar, compartir, intercambiar y reciclar y regenerar materiales, agua y energía.
 
       .row.align-items-center.justify-content-center.mb-4
-        .col-lg-5.fcs.border134
-          .p-5.text-center.texto-blanco
-            i.fas.fa-quote-left.cab
-            p Este Pacto que acompaña la Estrategia Nacional de Economía Circular se enmarca en el Plan de Desarrollo, Pacto por Colombia. Pacto Por la Equidad, en el capítulo de sostenibilidad, donde se definió el objetivo de fomentar la reducción, el reciclaje y la reutilización de los residuos y materiales. 
-            h6.text-right (Ministerio Ambiente, 2018)
+        .col-lg-5.fcs.border134.p-5
+          p.text-center <i class="fas fa-quote-left cac text-big"></i>
+          p.texto-blanco.text-center Este Pacto que acompaña la Estrategia Nacional de Economía Circular se enmarca en el Plan de Desarrollo, Pacto por Colombia. Pacto Por la Equidad, en el capítulo de sostenibilidad, donde se definió el objetivo de fomentar la reducción, el reciclaje y la reutilización de los residuos y materiales. 
+            div.floatRight
+              h6 <span class='text-white'>(Ministerio Ambiente, 2018).</span> <i class="fas fa-square cac ms-4" style='font-size: 2rem; vertical-align:middle;'></i>
         .col-lg-5.p-5
           figure
             img(src='@/assets/curso/t3/f8.svg' alt='imagen relacionada')
@@ -95,18 +101,19 @@
       .col-lg-10.mx-auto.mb-5
         p.mb-0 Podemos observar, cómo las iniciativas de transformación de las economías se convierten cada vez en pilares esenciales para los procesos de educación y sostenibilidad planetaria.
 
-      .tarjeta.bgdegradado.p-4.p-md-5.mb-5
+      .bgdegradado.p-4.p-md-5.mb-5
         .row.justify-content-around.align-items-center
           .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
             img(src="@/assets/curso/t3/f9.svg" alt='Descarga')
           .col-md.col-lg-6
-            .titulo-segundo
+            .titulo-segundo.text-white
               h3 El conocimiento colectivo y la cooperación
-            p.mb-4 El avance de las nuevas tecnologías y el desarrollo de un mundo globalizado, genera conocimiento científico y los procesos de innovación son cada vez más importantes, como factores de competitividad para el progreso de la sociedad.
+            p.mb-4.text-white El avance de las nuevas tecnologías y el desarrollo de un mundo globalizado, genera conocimiento científico y los procesos de innovación son cada vez más importantes, como factores de competitividad para el progreso de la sociedad.
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/conocimiento_colectivo_la_cooperación.pdf')" target="_blank" type="application/pdf")
-              span Descargar
-              i.fas.fa-file-download
+              span.cst Descargar
+              i.fas.fa-file-download.cst
     
+    .mb-5
     .row.align-items-center.mb-5
       .col-lg-7
         h3.cs El trabajo colaborativo y la inteligencia emocional
@@ -114,7 +121,7 @@
           p.mb-0 Teniendo en cuenta los grandes cambios sociales que se están dando para la sociedad en las formas de generar, gestionar y crear conocimiento que han permitido el desarrollo de nuevas economías emergentes, se observa la necesidad en estos nuevos escenarios el trabajo colaborativo como lo define Antúnez (1999) quien manifiesta que la colaboración y el trabajo grupal, enfatiza en la conjunción de acciones para el logro de objetivos comunes. 
         .px-4
           p.mb-0 La acción de trabajar juntamente con otro u otros con el propósito de alcanzar un mismo fin (tareas o trabajos solicitados) La destreza de colaborar puede desarrollarse entre grupos: instructores, aprendices, investigadores; entre otros que colaboran, compartiendo recursos, para alcanzar unos propósitos específicos durante un período de tiempo determinado.
-        .cajon-c.color-primario.p-4
+        .cajon-b.cajon-b--c.color-primario.p-4
           p.mb-0 En estas interacciones se conforman redes de conocimiento, donde las emociones tiene un papel determinante ya que éstas juegan un papel protagónico en las relaciones interpersonales. identificarlas, nombrarlas más profundo y dar respuestas favorables según los contextos. El trabajo colaborativo precisa desarrollar la inteligencia emocional y favorecer aquellas emociones que faciliten la búsqueda colectiva de la satisfacción de las necesidades de todos.
       .col-lg-5
         figure

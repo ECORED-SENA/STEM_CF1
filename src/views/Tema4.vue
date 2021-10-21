@@ -14,38 +14,38 @@
           img(src='@/assets/curso/t4/f1.svg' alt='maleta escolar con libros')
       .col-lg-8
         p En todo establecimiento educativo, el Proyecto Educativo Institucional y su Currículo tienen un periodo de tiempo donde se pretende alcanzar unos objetivos para un tiempo específico, al llegar el momento de su evaluación para ser actualizado, es posible que la visión y la misión de la institución sufran cambios al igual que los proyectos institucionales con el fin de que no pierdan vigencia.
-        .cajon-color-acento-contenido.p-4
+        .cajon.color-acento-contenido.p-4
           p.mb-0 En ese momento cuando el equipo encargado de esta actividad decide la intensidad horaria de cada una de las asignaturas y cómo transformar el Plan de Estudios para la vinculación de la educación STEM, garantizando que se cumplan los requerimientos mínimos exigidos por los entes nacionales, dado que los estudiantes deben recibir los temas exigidos y cumplir con las evaluaciones establecidas.
 
     .row.align-items-center.mb-5
       .col-lg-7
         p Al incluir la educación STEM en el plan de estudio es considerar que se requiere mayor tiempo para enseñarlos, los docentes necesitan cambiar su forma de dictar la asignatura, pues no solo van a profundizar más en los conceptos, sino que deberán hacerlo de forma integrada con sus colegas, por lo tanto, se les recomienda los siguientes aspectos al momento de las modificaciones:
         .row.align-items-center
-          .col.col-md-3.py-5
+          .col-auto.py-4.me-4
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
-          .col-lg-9
+          .col
             p.mb-0 Establecer el listado completo de asignaturas por cada grado.
         .hrcp
         .row.align-items-center
-          .col.col-md-3.py-5
+          .col-auto.py-4.me-4
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
-          .col-lg-9
+          .col
             p.mb-0 Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas
         .hrcp
         .row.align-items-center
-          .col.col-md-3.py-5
+          .col-auto.py-4.me-4
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
-          .col-lg-9
+          .col
             p.mb-0 Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar
         .hrcp
         .row.align-items-center.mb-4
-          .col.col-md-3.py-5
+          .col-auto.py-4.me-4
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
-          .col-lg-9
+          .col
             p.mb-0 La nueva forma de dictar las clases, así como el nuevo papel del docente requerirá de un nuevo diseño de unidades didácticas y actividades académicas.
         p Después de verificar las recomendaciones propuestas y considerar qué cambios van a causar mayor impacto en la Institución Educativa, es importante establecer una estructura transitoria de implementación de la educación STEM
 
@@ -143,15 +143,16 @@
               img(src='@/assets/curso/t4/f16.png' alt='Imagen relacionada')
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5.fcs.border134.p-5.text-center
-        i.fas-fa-quote-left.cac
-        p En el marco del Convenio 163 de 2007 firmado entre el Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias), el Servicio Nacional de Aprendizaje (SENA) y la Universidad del Valle a través del Instituto de Prospectiva, Innovación y Gestión del Conocimiento, se presenta al público colombiano, el Modelo de Prospectiva y Vigilancia tecnológica para la Respuesta Institucional de Formación, como resultado de veinticuatro (24) meses de interacción y trabajo en equipo entre la Universidad del Valle y funcionarios del SENA de diferentes áreas y regionales, así como del proceso de entrenamiento llevado a cabo con profesores de la Universidad de Manchester (Inglaterra) y expertos de la firma española Triz XXI de Valencia (España).
-        h6.text-right (Sena, 2010).
-      .col-lg-5.py-5.bg2
-        .p-4
+      .col-lg-5.fcs.border134.p-5
+        p.text-center <i class="fas fa-quote-left cac text-big"></i>
+        p.texto-blanco.text-center En el marco del Convenio 163 de 2007 firmado entre el Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias), el Servicio Nacional de Aprendizaje (SENA) y la Universidad del Valle a través del Instituto de Prospectiva, Innovación y Gestión del Conocimiento, se presenta al público colombiano, el Modelo de Prospectiva y Vigilancia tecnológica para la Respuesta Institucional de Formación, como resultado de veinticuatro (24) meses de interacción y trabajo en equipo entre la Universidad del Valle y funcionarios del SENA de diferentes áreas y regionales, así como del proceso de entrenamiento llevado a cabo con profesores de la Universidad de Manchester (Inglaterra) y expertos de la firma española Triz XXI de Valencia (España).
+        div.floatRight
+          h6 <span class='text-white'>(Sena, 2010).</span> <i class="fas fa-square cac ms-4" style='font-size: 2rem; vertical-align:middle;'></i>
+      .col-lg-5.bg2.p-4
+        .col-lg-8.mx-auto
           figure
             img(src='@/assets/curso/t4/f17.svg' alt='imagen relacionada').p-5
-          p La siguiente imagen muestra el ciclo de la vigilancia tecnológica, en ella se observa que la actividad de vigilancia se estructura en forma de sistema, el cual engloba un conjunto de procesos vinculados a la planeación, búsqueda y recuperación, procesamiento, análisis y difusión de la información, que se organizan en una secuencia lógica y se ejecutan de acuerdo con una determinada periodicidad.
+        p La siguiente imagen muestra el ciclo de la vigilancia tecnológica, en ella se observa que la actividad de vigilancia se estructura en forma de sistema, el cual engloba un conjunto de procesos vinculados a la planeación, búsqueda y recuperación, procesamiento, análisis y difusión de la información, que se organizan en una secuencia lógica y se ejecutan de acuerdo con una determinada periodicidad.
 
     .col-lg-10.mx-auto.mb-5
       .titulo-sexto.color-acento-contenido
@@ -187,15 +188,15 @@
           .col-6
             figure
               img(src='@/assets/curso/t4/f21.png' alt='imagen relacionada')
-        h2.text-center ●	VIGIALE® de IALE Tecnología, S.L., España, es una plataforma que integra tecnologías de la Web 2.0 para la gestión de la vigilancia tecnológica. Posibilita vigilar el entorno siguiendo notificaciones de cambio de las fuentes preestablecidas, admite la recuperación de información desde Internet de patentes, publicaciones científicas, noticias, blogs. Al automatizar la búsqueda y recopilación de información, les suministra a los usuarios la mayor información en el menor tiempo posible. Consta de las siguientes características: análisis y clasificación semántica de contenidos; filtros para la selección de información; gestión integral de estudios de vigilancia tecnológica; y búsqueda interna y clúster de resultados. 
-        p 
+        h2.text-center VIGIALE® de IALE Tecnología, S.L., España
+        p.text-center Es una plataforma que integra tecnologías de la Web 2.0 para la gestión de la vigilancia tecnológica. Posibilita vigilar el entorno siguiendo notificaciones de cambio de las fuentes preestablecidas, admite la recuperación de información desde Internet de patentes, publicaciones científicas, noticias, blogs. Al automatizar la búsqueda y recopilación de información, les suministra a los usuarios la mayor información en el menor tiempo posible. Consta de las siguientes características: análisis y clasificación semántica de contenidos; filtros para la selección de información; gestión integral de estudios de vigilancia tecnológica; y búsqueda interna y clúster de resultados. 
       .col-md.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/t4/f22.png' alt='imagen relacionada')
-        h2.text-center ●	XERKA de Aiatek/Diana Tecnología, España, un software que permite la vigilancia e informa automáticamente la aparición de nueva información de interés para la toma de decisiones en la empresa. Automatiza los procesos de búsqueda, análisis, clasificación y difusión de dicha información. Combina diferentes tecnologías para automatizar las fases del proceso de vigilancia y proporciona al usuario información lista para su explotación en los procesos de inteligencia competitiva. (Martínez, 2013)
-        p 
+        h2.text-center XERKA de Aiatek/Diana Tecnología, España
+        p.text-center Un software que permite la vigilancia e informa automáticamente la aparición de nueva información de interés para la toma de decisiones en la empresa. Automatiza los procesos de búsqueda, análisis, clasificación y difusión de dicha información. Combina diferentes tecnologías para automatizar las fases del proceso de vigilancia y proporciona al usuario información lista para su explotación en los procesos de inteligencia competitiva. (Martínez, 2013)
 
     Separador
     #t_4_3.titulo-segundo
@@ -203,7 +204,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-7
-        .cajon.color-secundario.p-4
+        .cajon-b.color-secundario.p-4
           p.mb-0 Los planes de desarrollo son fundamentales en el crecimiento de un país en temas sociales y económicos, y se incluyen en las políticas de gobierno en un mandato, generar proyectos educativos para el mejoramiento del mismo, tienen que ir alineados con el plan de desarrollo nacional, la infraestructura y la cobertura en la educación siempre enmarcan las políticas del gobernante de turno, pero la calidad queda a un lado, la importancia de generar proyectos en base a la calidad de la educación se tendrán que tener en cuenta en las políticas públicas en los gobiernos próximos.
         p.px-4 Un plan de desarrollo se define como un instrumento legal que gestiona y promueve el desarrollo en todos sus ámbitos como el social, educativo e infraestructura, con el fin de satisfacer las necesidades insatisfechas de la población y mejorar la calidad de vida de las personas en un territorio. 
       .col-lg-5
@@ -232,11 +233,11 @@
       .col-lg-7
         LineaTiempoD.color-acento-contenido
           div(numero="1" titulo="Antigüedad")
-            p En la Antigüedad clásica, ni los griegos ni incluso los romanos tuvieron una palabra que significa crear, en esa época se valoraba la destreza de la persona que se evidenciaba en el producto de su creación, la creatividad estaba íntimamente ligada con las leyes de la naturaleza.
-            p En la Edad Media fue una época muy religiosa, y por esta razón el acto de crear estaba estrechamente relacionado con Dios; no tenía nada que ver con la actividad humana. Los artistas realizaban obras análogas a la naturaleza porque ella era también producto de la existencia divina; no había cabida para lo subjetivo ni para la imaginación. La creatividad era prohibida.
+            p En la <b><span class="cs">Antigüedad clásica</span></b>, ni los griegos ni incluso los romanos tuvieron una palabra que significa crear, en esa época se valoraba la destreza de la persona que se evidenciaba en el producto de su creación, la creatividad estaba íntimamente ligada con las leyes de la naturaleza.
+            p En la <b><span class="cs">Edad Media</span></b> fue una época muy religiosa, y por esta razón el acto de crear estaba estrechamente relacionado con Dios; no tenía nada que ver con la actividad humana. Los artistas realizaban obras análogas a la naturaleza porque ella era también producto de la existencia divina; no había cabida para lo subjetivo ni para la imaginación. La creatividad era prohibida.
           div(numero="2" titulo="Renacimiento e Ilustración")
-            p En el Renacimiento ocurre un cambio transcendental en cuanto a la concepción de la creatividad: el ser humano comienza a intentar aplicarla en todas sus actuaciones. En esta época las obras de los grandes artistas tienden a ser subjetivas, y cada autor empieza a imprimirle un sello personal a sus creaciones. El Renacimiento es la época de la revolución creativa y la imaginación; se crean muchas escuelas para promover el arte y surgen muchas técnicas innovadoras.
-            p En la Ilustración o siglo de las luces conocida como una corriente de pensamiento intelectual que dominó Francia, se afianza el tema de la creatividad como parte inherente del proceso creativo. El arte está muy relacionado con la imaginación de la persona creadora, se empieza a abandonar la idea de que la creación surge de la nada solo por atribuciones de Dios, y a partir de allí comienza a distanciarse la creatividad y la divinidad.
+            p En el <b><span class="cs">Renacimiento</span></b> ocurre un cambio transcendental en cuanto a la concepción de la creatividad: el ser humano comienza a intentar aplicarla en todas sus actuaciones. En esta época las obras de los grandes artistas tienden a ser subjetivas, y cada autor empieza a imprimirle un sello personal a sus creaciones. El Renacimiento es la época de la revolución creativa y la imaginación; se crean muchas escuelas para promover el arte y surgen muchas técnicas innovadoras.
+            p En la <b><span class="cs">Ilustración</span></b> o siglo de las luces conocida como una corriente de pensamiento intelectual que dominó Francia, se afianza el tema de la creatividad como parte inherente del proceso creativo. El arte está muy relacionado con la imaginación de la persona creadora, se empieza a abandonar la idea de que la creación surge de la nada solo por atribuciones de Dios, y a partir de allí comienza a distanciarse la creatividad y la divinidad.
           div(numero="3" titulo="Revolución industrial")
             p En los siglos XIX y XX, se inicia la Revolución industrial, que influyó mucho en el desarrollo, conceptualización y aplicación de la creatividad. El arte trasciende, es aceptado y reconocido por la sociedad. Se crean muchos productos innovadores como la locomotora, que es el gran ejemplo de esta revolución.
           div(numero="4" titulo="Actualidad")
@@ -263,7 +264,7 @@
 
     .row.align-items-center
       .col-lg-7
-        .p-4.fcp20
+        .p-4.fcp20.mb-4
           p.mb-0 Los desarrollos tecnológicos se encuentran en todas partes del diario vivir y se mantienen en constante evolución, se combinan, se transforman ofreciendo calidad de vida y agilidad de procesos, el Internet es una de las principales herramientas tecnológicas de la actualidad que conecta personas con personas, también conecta máquinas con máquinas en lo que se denomina el internet de las cosas, pero los desarrollos también se originan en otras áreas, como la química, la salud y viajes espaciales. 
         p La educación está siendo beneficiada por la tecnología, este proceso se viene marcando ya hace unos años permitiendo un enfoque diferente de cómo aprender, de cómo procesar la información, cómo almacenarla, las plataformas digitales y el internet han dado vida a las clases virtuales, interactuar en línea y lógicamente a distancia, un proceso que no se pensaría se fuera dar tan rápido y el usuario tendría un desenvolvimiento de fácil adaptación. El futuro es incierto y los desarrollos tecnológicos darán la pauta para innovar en la educación, y tomar estos elementos como un medio y no como un fin.
       .col-lg-5

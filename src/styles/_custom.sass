@@ -1,13 +1,24 @@
 // COLORES
+$azulGgrisMedio: #CEDBEF
+$primario20: rgba(239,60,121,.2)
+$secundario20: #0d4aad35
+
+.cst
+  color: $color-sistema-texto !important
+
 .cp
   color: $color-primario !important
 .fcp
   background-color: $color-primario !important
+.fcp20
+  background-color: $primario20 !important
 
 .cs
   color: $color-secundario !important
 .fcs
   background-color: $color-secundario !important
+.fcs20
+  background-color: $secundario20 !important
 
 .cac
   color: $color-acento-contenido !important
@@ -19,7 +30,46 @@
 .fcab
   background-color: $color-acento-botones !important
 
-  
+.fagm2
+  background-color: $azulGgrisMedio !important
+
+.fagm
+  transition: 0.25s
+  background-color: $azulGgrisMedio
+  &:hover
+    background-color: $color-secundario
+    p, .cs
+      color: $white !important
+
+.cajon-b.color-secundario
+  &::before
+    background-color: $azulGgrisMedio !important
+
+.bloque-texto-b.color-primario
+  &::before
+    background-color: $primario20 !important
+
+.col
+  .bloque-texto-b.color-secundario
+    &::before
+      background-color: transparent
+
+.bloque-texto-a.color-primario
+  background-color: #E8E8E8 !important
+  opacity: 1 !important
+
+.cajon.color-primario
+  background-color: #FBCEDD !important
+  opacity: 1 !important
+
+.cajon.color-acento-contenido
+  background-color: #00CBAE40 !important
+  opacity: 1 !important
+
+.cajon-b--c.color-primario
+  &::before
+    background-color: #E6D3D9 !important
+    opacity: 1 !important
   
 // BACKGROUNDS
 .bg-img-banner
@@ -29,6 +79,16 @@
   
 .bg2
   background: #E6ECF7
+
+.bg3
+  background-image: url(../assets/curso/bg1.png)
+  background-position: center center
+  background-size: 100% 100%
+
+.bgdegradado
+  background-image: url(../assets/curso/bgdegradado1.jpg)
+  background-position: center center
+  background-size: 100% 100%
 
 .fblanco
   background-color: $white
@@ -44,12 +104,15 @@
 .traslapeTop
   overflow: visible
   margin-top: 20rem
-  .tabs-c
+  .tabs-c, .t-20rem
     margin-top: -20rem
 
 .traslapeLoR
   .col-lg-6
     margin-left: -25%
+
+.border24
+  border-radius: 0 2rem
 
 .border134
   border-radius: 2rem 0 2rem 2rem
@@ -66,3 +129,66 @@
 
 .boxShadow
   box-shadow: 3px 3px 5px rgba(0,0,0,0.5)
+
+.mt_1_5rem
+  margin-top: -1.5rem
+  
+.clear
+  clear: both
+
+.floatRight
+  float: right
+.float-left
+  float: left
+
+// Slider BOOTSTRAP
+#carouselExampleIndicators
+  .row
+    //height: 200px
+    padding: 2rem 0 1.5rem 0
+    .col-lg-1
+      &--borde
+        border-right: $color-secundario dashed 2px
+        margin: 1rem
+
+.carousel-inner
+  background-color: $azulGgrisMedio
+  border-radius: 1rem
+
+button.carousel-control-next, button.carousel-control-prev
+  background-color: $color-secundario !important
+  opacity: 1 !important
+  width: 70px
+
+button.carousel-control-next
+  border-radius: 0 1rem 1rem 0
+  
+button.carousel-control-prev
+  border-radius: 1rem 0 0 1rem
+
+.carousel-indicators
+  [data-bs-target]
+    background-color: $color-primario
+  
+.w71px
+  width: 71px
+
+.w73px
+  width: 73px
+
+.cajon-b
+  &--c
+    &::before
+      content: ''
+      display: block
+      position: absolute
+      opacity: .35
+      bottom: 0
+      right: 0
+      left: 60%
+      top: 50%
+
+.hrcp
+  border-bottom: 2px solid $color-primario
+  width: 90%
+  margin: auto

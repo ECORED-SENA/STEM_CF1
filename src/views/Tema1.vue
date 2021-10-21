@@ -106,7 +106,8 @@
         .col-lg-5.fcs.border134.p-5
           p.text-center <i class="fas fa-quote-left cac text-big"></i>
           p.text-white.text-center La educación va de la mano con la evolución del ser humano; todas las sociedades por más primitivas que sean se apoyan en la enseñanza. Podríamos asegurar que la educación asume su origen en las comunidades primitivas y el punto de referencia lo encontramos cuando el ser humano pasa de vivir un estilo de vida nómada a establecerse y ser sedentario; donde ya se beneficia de sus primeras labores, como la caza y la pesca, la agricultura y la recolección de sus alimentos y sobre todo de su supervivencia. 
-          h6.text-right <span class='text-white'>Según Ferrer (2005).</span> <i class="fas fa-square cac ms-5" style='font-size: 2rem; vertical-align:middle;'></i>
+          div.floatRight
+            h6 <span class='text-white'>Según Ferrer (2005).</span> <i class="fas fa-square cac ms-4" style='font-size: 2rem; vertical-align:middle;'></i>
         .col-lg-7
           img(src='@/assets/curso/t1/f11.png' alt='niños alzando la mano').mb-4
           p.px-4 Podemos observar que en la actualidad se sigue enseñando de la misma manera planeada por los griegos y romanos, quienes consideraban la retórica y la oratoria como un aspecto fundamental de aprender, configuran así la escuela en un aula, un maestro o luz de sabiduría que guía a sus aprendices por el camino del conocimiento, que han sido configurados por caminos separados, considerando que se deben aprender en sus espacios establecidos.
@@ -160,7 +161,7 @@
       .col.col-lg-1_5
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f15.svg' alt='AvatarTop')
-          .tarjeta.color-secundario
+          .tarjeta.fagm
             .p-4.text-center
               h2.cs Nivel Preescolar
               p Duración:<br>1 o 2 años
@@ -169,7 +170,7 @@
       .col.col-lg-1_5
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f16.svg' alt='AvatarTop')
-          .tarjeta.color-secundario
+          .tarjeta.fagm
             .p-4.text-center
               h2.cs Educación Básica
               p Grados:<br>Del 1° al 9°
@@ -177,7 +178,7 @@
       .col.col-lg-1_5
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f17.svg' alt='AvatarTop')
-          .tarjeta.color-secundario
+          .tarjeta.fagm
             .p-4.text-center
               h2.cs Educación Media
               p Grados:<br>Del 10° al 11°
@@ -185,7 +186,7 @@
       .col.col-lg-1_5
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f18.svg' alt='AvatarTop')
-          .tarjeta.color-secundario
+          .tarjeta.fagm
             .p-4.text-center
               h2.cs Educación Superior
               p Niveles:
@@ -194,13 +195,13 @@
       .col.col-lg-1_5
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f19.svg' alt='AvatarTop')
-          .tarjeta.color-secundario
+          .tarjeta.fagm
             .p-4.text-center
               h2.cs Educación para el Trabajo
               p Desarrolla el proceso de formación para adquirir competencias laborales, específicas o trasversales para ejercer una actividad productiva
     .row.align-items-center.mb-5
       .col-lg-7
-        .bg2.p-5
+        .bg2.p-5.mb-4
           h4.cs La ley 30 en su Título primero “Fundamentos de la educación superior”, establece los principios de la ley, en el artículo 1º indica que: 
           p.mb-0 La educación superior es un proceso permanente que posibilita el desarrollo de las potencialidades del ser humano de una manera integral, se realiza con posterioridad a la educación media y secundaria y tiene por objeto pleno desarrollo de los aprendices y su formación académica profesional.
         .px-5

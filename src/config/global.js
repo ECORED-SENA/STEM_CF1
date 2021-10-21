@@ -160,141 +160,162 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Cantú-Martínez, P.C. (2017). Educación ambiental y la escuela como espacio educativo para la promoción de la sustentabilidad. Revista Electrónica Educare',
+    },
+    {
+      referencia:
+        'Constitución Política de Colombia, Art 67. 7 de julio de 1991.',
+    },
+    {
+      referencia:
+        'CPAN Ingenio 2010 (s.f.) El Gran Colisionador de Hadrones (LHC) ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.i-cpan.es/es/content/el-gran-colisionador-de-hadrones-lhc',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Departamento Nacional de Planeación (2018) La Educación en Colombia. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.dnp.gov.co/programas/desarrollo-social/subdireccion-de-educacion/Paginas/subdireccion-de-educacion.aspx ',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Departamento Nacional de Planeación (2019) ¿Qué es el Plan Nacional de Desarrollo? ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.dnp.gov.co/DNPN/Paginas/Que-es-el-Plan-Nacional-de-Desarrollo.aspx',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Escudero Nahón, A. (2018). Redefinición del “aprendizaje en red” en la cuarta revolución industrial. Apertura, 10 (1), pp. 149-163. ',
+      link: 'http://dx.doi.org/10.32870/Ap.v10n1.1140',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ferrer, A. T. (2005). Historia de la educación (Edad Contemporánea). Francia.',
+    },
+    {
+      referencia:
+        'Helg, A. (2001). La educación en Colombia, 1918-1957. Una historia. Bogotá, D.C.: Universidad Pedagógica Nacional - Plaza & Janes.',
+    },
+    {
+      referencia:
+        'Ley 115 de 1994. Por la cual se expide la ley general de educación. Febrero 8 de 1994 DO. N°41214.8',
+    },
+    {
+      referencia:
+        'Ley 1620 de 2013. Por la cual se crea el Sistema Nacional de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar. Marzo 20 de 2013 DO N°48733',
+    },
+    {
+      referencia:
+        'Ley 30 de 1992. Por la cual se organiza el servicio público de la Educación Superior. Diciembre 29 de 1992 DO. N°40.700 ',
+    },
+    {
+      referencia:
+        'Ley 749 de 2002. Por la cual se organiza el servicio público de la educación superior en las modalidades de formación técnica profesional y tecnológica, y se dictan otras disposiciones. Julio 19 de 2002 DO. N°44.872',
+    },
+    {
+      referencia:
+        'Lundvall, B. A., Johnson, B. (1994). The Learning Economy. En Journal of Industry Studies, 1(2), p. 23-42.',
+    },
+    {
+      referencia:
+        'Martínez, F. (2013). Evaluación de plataformas web para su implementación en el Sistema de Vigilancia Tecnológica de la Consultoría Biomundi. Revista Cubana de Información en Ciencias de la Salud. 25. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'http://eprints.rclis.org/21173/1/Evaluaci%C3%B3n%20de%20plataformas%20web%20para%20la%20vigilancia%20tecnol%C3%B3gica%20en%20la%20Consultor%C3%ADa%20Biomundi.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Oliván, R. (2016). La Cuarta Revolución Industrial, un relato desde el materialismo cultural. URBS. Revista de Estudios Urbanos y Ciencias Sociales, 6(2), 101-111.	 ',
+      link: 'http://www2.ual.es/urbs/index.php/%20urbs/article/view/olivan',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Powell, W.W. y Snellman, K. (2004). The knowledge economy. Annual Review of Sociology, 30, 199–220. Recuperado de ',
+      link: 'https://scholar.harvard.edu/',
+    },
+    {
+      referencia:
+        'Purzer, S. C. (2014). Apoyar la implementación de ngss a través de la investigación: ingeniería. Obtenido de ',
+      link: 'https://narst.org/blog/ngss-engineering',
+    },
+    {
+      referencia:
+        'Sánchez, C. y Ríos, H. (2011). La economía del conocimiento como base del crecimiento económico en México. Enl@ce Revista Venezolana de Información, Tecnología y Conocimiento, 8 (2), 43-60. Recuperado de ',
+      link: 'http://www.redalyc.org/pdf/823/82319126004.pdf',
+    },
+    {
+      referencia: 'T&E innovate develop (2018) La 4ª revolución Industrial. ',
+      link: 'https://www.tye-solutions.com/post?id=4',
+    },
+    {
+      referencia:
+        'Vilaseca, J., Torrent, J. y Díaz, A. (2002). La economía del conocimiento: paradigma tecnológico y cambio estructural. España: UOC. Recuperado de ',
+      link: 'http://www.uoc.edu/in3/dt/20007/20007.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Big Data',
+      terminoHTML: '<em>Big Data</em>',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Procesamiento y organización de grandes cantidades de datos, estructurados y no estructurados en una empresa y la importancia de la destinación de estos datos en términos económicos.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Contemporánea',
+      significado: 'Persona o sujeto que vive en la misma época actual.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cloud Computing',
+      terminoHTML: '<em>Cloud Computing</em>',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Cloud Computing o computación en la nube, consiste en la capacidad de aprovechamiento del internet, softwares remotos y procesamiento de datos.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Consolidador de Hadrones ',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Es el mayor acelerador de partículas del mundo. En este experimento, los físicos del Laboratorio Europeo de Física de Partículas (CERN) hacen chocar entre sí partículas subatómicas (principalmente protones, uno de los constituyentes del núcleo del átomo) en puntos seleccionados donde se ubican grandes detectores. Estos registran las partículas resultantes de las colisiones para estudiar los elementos que componen la materia de la que está hecha el Universo, incluidos nosotros mismos, y sus interacciones. ',
     },
     {
-      termino: 'Moda',
+      termino: 'Dualización',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Acción de dualidad, existencia de dos caracteres o fenómenos distintos en una misma persona o cosa.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Internet de las cosas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Conexión de internet entre equipos electrónicos de la vida diaria, entre ellas y a estas con las personas, a través de sensores y otros dispositivos con capacidad de enlazar en mundo físico con las conexiones digitales.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Tecnología disruptiva',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es aquella innovación tecnológica que se consolida rápidamente en el mercado al generar productos o servicios en cualquier sector y genera un cambio radical frente a una tecnología existente.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'Canal Salesiano. (2012). Educación para el siglo XXI',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=L6MNTXi82GM',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Escudero, A. (2018). Redefinición del “aprendizaje en red” en la cuarta revolución industrial.',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/Redefinicion_arendizaje_en_red_cuarta_revolucion_industrial.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Pérez Betancur, N. (2016). El SENA a la vanguardia de la cuarta revolución industrial.',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/El_sena_a_la_vanguardia_ de_cuarta_revolucion_industrial.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Coleman, D. (2009). El espíritu creativo.',
+      tipo: 'PDF',
+      link:
+        'https://clea.edu.mx/biblioteca/files/original/d4bf6abe41d826c54a5fc661aaafb5cf.pdf',
     },
   ],
   creditos: {
@@ -312,6 +333,46 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Iván Mauricio González O.',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Diseño e Innovación Tecnológica Industrial - Regional Risaralda',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Bogotá',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica - Regional Distrito Capital',
+      },
+      {
+        nombre: 'María Cristina Hurtado Zúñiga',
+        cargo: 'Experta Temática',
+        centro:
+          'Centro de Diseño Tecnológico Industrial (DCTI) – Regional Valle',
+      },
+      {
+        nombre: 'Zvi Daniel Grosman',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro Agropecuario La Granja – Regional Tolima',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora Metodológica y Pedagógica',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+      },
     ],
     desarrolloProducto: [
       {
@@ -326,14 +387,14 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Walter Roa Serrano',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
