@@ -10,6 +10,8 @@
 
     p.mb-5 En desarrollo educativo mundial, la humanidad, ha transitado por diversos paradigmas educativos, como se muestra a continuación:
 
+    .titulo-sexto.color-acento-contenido
+      span Paradigmas educativos
     img(src='@/assets/curso/t1/f1.svg' alt='Paradigmas educativos').mb-5
 
     p.mb-5 Ahora veamos los paradigmas del mundo contemporáneo, a través de una presentación evolutiva de los mismos hasta llegar al STEM:
@@ -53,7 +55,7 @@
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 Robert Gagne
-              p Considera la teoría del aprendizaje como tal como el resultado de la interrelación entre persona y ambiente, siendo un cambio de tipo comportamental, conductual e incluso de disposición o actitud respecto a una parte o la totalidad de la realidad.  Dicho cambio es mantenido en el tiempo como consecuencia de la interacción entre persona y ambiente, no siendo debido únicamente a cambios madurativos sino a la vivencia de experiencias y repetición de éstas.
+              p Considera la teoría del aprendizaje como tal como el resultado de la interrelación entre persona y ambiente, siendo un cambio de tipo comportamental, conductual e incluso de disposición o actitud respecto a una parte o la totalidad de la realidad.  Dicho cambio es mantenido en el tiempo como consecuencia de la interacción entre persona y ambiente, no siendo debido únicamente a cambios madurativos sino a la vivencia de experiencias y repetición de estas.
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f6.png' alt='imagen relacionada')
@@ -61,7 +63,7 @@
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 H. Gardner
-              p Plantea las teorías de las inteligencias múltiples y sugiere un número de formas distintas para que el individuo aprenda (Lingüístico, musical, lógico-matemático, espacial, kinestésico, intrapersonal e interpersonal (habilidades sociales)
+              p Plantea las teorías de las inteligencias múltiples y sugiere un número de formas distintas para que el individuo aprenda (Lingüístico, musical, lógico-matemático, espacial, kinestésico, intrapersonal e interpersonal (habilidades sociales).
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f7.png' alt='imagen relacionada')
@@ -126,7 +128,7 @@
 
     p.mb-5 Conozcamos algunos hitos del entorno de la educación en Colombia a través del tiempo:
 
-    LineaTiempoD.color-secundario.mb-5
+    LineaTiempoD.color-acento-contenido.mb-5
       .row.p-5.align-items-center(numero="1957" titulo="Nace el Servicio Nacional de Aprendizaje SENA")
         .col-lg-9
           p A partir del año 1957 surge la necesidad del país de calificar su mano de obra para incorporarlas, a la naciente industria nacional, para lo cual es necesario formar en técnicas y tecnologías impulsadas por la revolución industrial, es así como nace el Servicio Nacional de Aprendizaje SENA, quien desde sus inicios brinda la formación para el trabajo a los colombianos.

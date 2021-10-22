@@ -46,7 +46,7 @@
                     figure
                       img(src='@/assets/curso/t2/f3.svg' alt='imagen relacionada')
                   .col
-                    h4 Saber qué (Know What)
+                    h4 Saber qué <em>(Know What)</em>
                     p Es el conocimiento basado en los “hechos”, donde el conocimiento está cerca de lo que normalmente se llama información.
               .col-lg-1.col-md-2
           .carousel-item
@@ -58,7 +58,7 @@
                     figure
                       img(src='@/assets/curso/t2/f4.svg' alt='imagen relacionada')
                   .col
-                    h4 Saber por qué (Know Why)
+                    h4 Saber por qué <em>(Know Why)</em>
                     p Se refiere al conocimiento basado en los principios y las leyes del movimiento en la naturaleza, en la mente humana y en el desarrollo de la sociedad y el medio ambiente. Este tipo de conocimiento ha sido sumamente importante para el avance y desarrollo tecnológico de la humanidad.
               .col-lg-1.col-md-2
           .carousel-item
@@ -70,7 +70,7 @@
                     figure
                       img(src='@/assets/curso/t2/f5.svg' alt='imagen relacionada')
                   .col
-                    h4 Saber cómo (Know How)
+                    h4 Saber cómo <em>(Know How)</em>
                     p Es el saber hacer este conocimiento ha estado siempre relacionado con las habilidades y destrezas de los seres humanos, conocidas como técnicas primordiales o artesanales. Puede estar relacionado con las habilidades de los trabajadores de las áreas de producción, artes y oficios, este conocimiento es considerado clave para el desarrollo de todas las economías en el mundo.
               .col-lg-1.col-md-2
           .carousel-item
@@ -82,7 +82,7 @@
                     figure
                       img(src='@/assets/curso/t2/f6.svg' alt='imagen relacionada')
                   .col
-                    h4 Saber quién (Know Who)
+                    h4 Saber quién <em>(Know Who)</em>
                     p Se refiere a la mezcla de diferentes clases de habilidades, incluidas las llamadas habilidades sociales, que permiten tener acceso al experto y usar su conocimiento eficientemente. 
               .col-lg-1.col-md-2
         button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
@@ -152,7 +152,7 @@
         figure
           img(src='@/assets/curso/t2/f12.png' alt='imagen relacionada')
       .col-lg-7
-        p.mb-5 A diferencia de las tres revoluciones anteriores, la cuarta no se define por la emergencia de una tecnología disruptiva específica, sino por la convergencia de varias tecnologías digitales, físicas y biológicas, como la inteligencia artificial, la realidad aumentada, la robótica, la impresión 3D, el cloud computing, el big data, el internet de las cosas o la nanotecnología.
+        p.mb-5 A diferencia de las tres revoluciones anteriores, la cuarta no se define por la emergencia de una tecnología disruptiva específica, sino por la convergencia de varias tecnologías digitales, físicas y biológicas, como la inteligencia artificial, la realidad aumentada, la robótica, la impresión 3D, el <em>cloud computing</em>, el <em>big data</em>, el internet de las cosas o la nanotecnología.
         LineaTiempoD.color-secundario.mb-5
           div(numero="1" titulo="Revoluciones Industriales")
            p En el transcurso de la historia las revoluciones industriales han generado impactos sociales que quedaron grabados en la historia, cada impacto genera sus aspectos positivos y negativos, y que tarde o temprano se termina dando en una transformación que afecta a todos los actores en los ámbitos educativos y económicos. El desafío es inminente y el ser humano ya lo ha experimentado, hay que prepararse para el cambio, de lo contrario estos aspectos negativos afectarán el entorno social como por ejemplo el desempleo. En cuanto a su aspecto positivo las nuevas tecnologías generan nuevas oportunidades laborales, empleos nuevos, el individuo desarrollará nuevas habilidades y competencias que le permitan afrontar estos trabajos calificados.

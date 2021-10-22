@@ -32,14 +32,14 @@
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
           .col
-            p.mb-0 Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas
+            p.mb-0 Establecer el requerimiento de planta profesional docente para desarrollar las asignaturas.
         .hrcp
         .row.align-items-center
           .col-auto.py-4.me-4
             figure
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
           .col
-            p.mb-0 Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar
+            p.mb-0 Revisar los estándares curriculares y los planes de estudio actuales para determinar los contenidos que se van a dictar.
         .hrcp
         .row.align-items-center.mb-4
           .col-auto.py-4.me-4
@@ -47,7 +47,7 @@
               img(src='@/assets/curso/t4/libro-icon.svg' alt='icono de libro').w71px.mx-auto
           .col
             p.mb-0 La nueva forma de dictar las clases, así como el nuevo papel del docente requerirá de un nuevo diseño de unidades didácticas y actividades académicas.
-        p Después de verificar las recomendaciones propuestas y considerar qué cambios van a causar mayor impacto en la Institución Educativa, es importante establecer una estructura transitoria de implementación de la educación STEM
+        p Después de verificar las recomendaciones propuestas y considerar qué cambios van a causar mayor impacto en la Institución Educativa, es importante establecer una estructura transitoria de implementación de la educación STEM.
 
       .col-lg-5
         figure
