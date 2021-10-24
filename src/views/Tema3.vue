@@ -30,7 +30,7 @@
                     .col-lg-2.col-md-3
                       figure
                         img(src='@/assets/curso/t3/f2.svg' alt='imagen relacionada')
-                    .col
+                    .col-7.col-lg-8
                       p A nivel mundial se considera a la ciencia y la tecnología como pilares de una economía sostenible y próspera.
               .carousel-item
                 .col-lg-9.col-md-8.mx-auto
@@ -38,7 +38,7 @@
                     .col-lg-2.col-md-3
                       figure
                         img(src='@/assets/curso/t3/f3.svg' alt='imagen relacionada')
-                    .col
+                    .col-7.col-lg-8
                       p La educación STEM con énfasis en la integración de las áreas, brinda una vía sólida para potencializar a los futuros ciudadanos hacia un desarrollo sostenible y próspero a todos los países.
               .carousel-item
                 .col-lg-9.col-md-8.mx-auto
@@ -46,7 +46,7 @@
                     .col-lg-2.col-md-3
                       figure
                         img(src='@/assets/curso/t3/f4.svg' alt='imagen relacionada')
-                    .col
+                    .col-7.col-lg-8
                       p Se presenta una tendencia a la disminución del número de profesionales en las áreas de ciencias, tecnología e ingeniería.
               .carousel-item
                 .col-lg-9.col-md-8.mx-auto
@@ -54,7 +54,7 @@
                     .col-lg-2.col-md-3
                       figure
                         img(src='@/assets/curso/t3/f5.svg' alt='imagen relacionada')
-                    .col
+                    .col-7.col-lg-8
                       p Es fundamental aumentar la participación de la mujer en las áreas de desarrollo de los países, ya que su participación en los puestos de trabajo de liderazgo en Ciencia y Tecnología es muy baja.
               .carousel-item
                 .col-lg-9.col-md-8.mx-auto
@@ -62,14 +62,14 @@
                     .col-lg-2.col-md-3
                       figure
                         img(src='@/assets/curso/t3/f6.svg' alt='imagen relacionada')
-                    .col
+                    .col-7.col-lg-8
                       p La educación STEM debe atraer mayor interés por parte de los aprendices, pero en especial de las niñas a quienes se les debe impulsar su liderazgo en ciencia y tecnología.
             button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
-            span.carousel-control-prev-icon(aria-hidden='true')
-            span.visually-hidden Previous
+              span.carousel-control-prev-icon(aria-hidden='true')
+              span.visually-hidden Previous
             button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
-            span.carousel-control-next-icon(aria-hidden='true')
-            span.visually-hidden Next
+              span.carousel-control-next-icon(aria-hidden='true')
+              span.visually-hidden Next
 
     
       h3.cs La economía Circular

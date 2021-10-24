@@ -8,7 +8,7 @@
         span 2
       h1 La gestión del conocimiento y la cuarta revolución industrial
 
-    figure.mb-5
+    .mb-5
       img(src='@/assets/curso/t2/f1.jpg' alt='Cuaderno y lápices').float-left
       .border24.fblanco.boxShadow.p-4.mt_1_5rem.floatRight
         p.mb-0 Comenzando por ciertas definiciones claves, abordaremos la información relevante y avance histórico para una mayor comprensión.
@@ -18,12 +18,12 @@
       h2 2.1 Definición
 
     .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5.fcs.border134.p-5
+      .col-lg-5.fcs.border134.p-5.order-lg-first.order-last
         p.text-center <i class="fas fa-quote-left cac text-big"></i>
         p.texto-blanco.text-center Históricamente el conocimiento es el pilar y desarrollo de la humanidad, necesario para la búsqueda del bienestar social del ser humano y, además, para la reducción de la pobreza y la falta de equidad social, en la actualidad es considerado un detonador del desarrollo económico de los países en el mundo, quienes trascienden en nuevos y mayores indicadores de competitividad, particularmente para las industrias la productividad se configura como un conocimiento unido al desarrollo del componente tecnológico, donde se vienen constituyendo elementos claves que potencializar y dinamizar las economías a nivel mundial. 
         div.floatRight
           h6 <span class='text-white'>Según Powell & Snellman (2004).</span> <i class="fas fa-square cac ms-4" style='font-size: 2rem; vertical-align:middle;'></i>
-      .col-lg-5.bg2
+      .col-lg-5.bg2.order-lg-last.order-first
         .p-4
           figure
             img(src='@/assets/curso/t2/f2.svg' alt='imagen relacionada')
@@ -45,7 +45,7 @@
                   .col-lg-4.col-md-3
                     figure
                       img(src='@/assets/curso/t2/f3.svg' alt='imagen relacionada')
-                  .col
+                  .col-8.col-sm-8.col-md-7
                     h4 Saber qué <em>(Know What)</em>
                     p Es el conocimiento basado en los “hechos”, donde el conocimiento está cerca de lo que normalmente se llama información.
               .col-lg-1.col-md-2
@@ -57,7 +57,7 @@
                   .col-lg-4.col-md-3
                     figure
                       img(src='@/assets/curso/t2/f4.svg' alt='imagen relacionada')
-                  .col
+                  .col-8.col-sm-8.col-md-7
                     h4 Saber por qué <em>(Know Why)</em>
                     p Se refiere al conocimiento basado en los principios y las leyes del movimiento en la naturaleza, en la mente humana y en el desarrollo de la sociedad y el medio ambiente. Este tipo de conocimiento ha sido sumamente importante para el avance y desarrollo tecnológico de la humanidad.
               .col-lg-1.col-md-2
@@ -69,7 +69,7 @@
                   .col-lg-4.col-md-3
                     figure
                       img(src='@/assets/curso/t2/f5.svg' alt='imagen relacionada')
-                  .col
+                  .col-8.col-sm-8.col-md-7
                     h4 Saber cómo <em>(Know How)</em>
                     p Es el saber hacer este conocimiento ha estado siempre relacionado con las habilidades y destrezas de los seres humanos, conocidas como técnicas primordiales o artesanales. Puede estar relacionado con las habilidades de los trabajadores de las áreas de producción, artes y oficios, este conocimiento es considerado clave para el desarrollo de todas las economías en el mundo.
               .col-lg-1.col-md-2
@@ -81,7 +81,7 @@
                   .col-lg-4.col-md-3
                     figure
                       img(src='@/assets/curso/t2/f6.svg' alt='imagen relacionada')
-                  .col
+                  .col-8.col-sm-8.col-md-7
                     h4 Saber quién <em>(Know Who)</em>
                     p Se refiere a la mezcla de diferentes clases de habilidades, incluidas las llamadas habilidades sociales, que permiten tener acceso al experto y usar su conocimiento eficientemente. 
               .col-lg-1.col-md-2
@@ -173,17 +173,13 @@
            p El SENA está comprometido en este nuevo desafío, “para cumplir su misión, el SENA, a través del Servicio Público de Empleo, investiga permanentemente las tendencias del mercado laboral colombiano y renueva su oferta de formación (programas técnicos, tecnológicos y cursos complementarios), tomando en consideración las necesidades del sector productivo, impulsando así la productividad y la competitividad (SENA, 2016).
     
     .col-lg-10.mx-auto.mb-5
-      .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
-        .row.m-0.align-items-center.justify-content-between
-          .col-lg-7
-            .bloque-texto-a__texto.p-4
-              p.mb-0 Un ejemplo se presenta en la siguiente imagen se observa el Agrobot Eco un robot tipo carro que asiste a los caficultores en el proceso de secado de café, creado por aprendices SENA del Tecnólogo en Diseño e Integración de Automatismos Mecatrónicos, gestores del Tecnoparque nodo Neiva y aprendices de la Universidad Antonio Nariño.
-          .col-lg-5.mb-4.mb-lg-0
-            .titulo-sexto.color-acento-contenido
-              span Agrobot Eco
-            figure
-              img(src='@/assets/curso/t2/f13.jpg' alt='imagen relacionada')
-
+      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/t2/f13.jpg')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 Un ejemplo se presenta en la imagen, se observa el <b>Agrobot Eco</b> un robot tipo carro que asiste a los caficultores en el proceso de secado de café, creado por aprendices SENA del Tecnólogo en Diseño e Integración de Automatismos Mecatrónicos, gestores del Tecnoparque nodo Neiva y aprendices de la Universidad Antonio Nariño.
+        
 </template>
 
 <script>

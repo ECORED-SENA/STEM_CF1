@@ -18,7 +18,7 @@
 
     .contenedor.bg2.traslapeTop
       TabsC.color-primario.mb-5
-        .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Conductista")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="El Paradigma Conductista")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 El Paradigma Conductista
@@ -26,7 +26,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f2.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="El Paradigma Cognoscitivista (1920 – 1960)")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="El Paradigma Cognoscitivista (1920 – 1960)")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 El Paradigma Cognoscitivista (1920 – 1960)
@@ -35,7 +35,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f3.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="Jerome Bruner")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="Jerome Bruner")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 Jerome Bruner
@@ -43,7 +43,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f4.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="David Ausubel")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="David Ausubel")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 David Ausubel
@@ -51,7 +51,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f5.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="Robert Gagne")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="Robert Gagne")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 Robert Gagne
@@ -59,7 +59,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f6.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="H. Gardner")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="H. Gardner")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 H. Gardner
@@ -67,7 +67,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f7.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="George Siemen")
+        .py-3.py-md-4.bg-img-banner.p-5(titulo="George Siemen")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 George Siemen
@@ -75,7 +75,7 @@
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f8.png' alt='imagen relacionada')
-        .py-3.py-md-4.bg-img-banner(titulo="Educación STEM")
+        .py-3.py-md-5.bg-img-banner.p-5(titulo="Educación STEM")
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 Educación STEM
@@ -160,7 +160,7 @@
     p.mb-5 El sistema educativo en Colombia está conformado actualmente por cinco grandes bloques:
 
     .row.justify-content-center.mb-5
-      .col.col-lg-1_5
+      .col.mmw
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f15.svg' alt='AvatarTop')
           .tarjeta.fagm
@@ -169,7 +169,7 @@
               p Duración:<br>1 o 2 años
               p Se denomina educación inicial
               p Edades:<br>< 6 años
-      .col.col-lg-1_5
+      .col.mmw
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f16.svg' alt='AvatarTop')
           .tarjeta.fagm
@@ -177,7 +177,7 @@
               h2.cs Educación Básica
               p Grados:<br>Del 1° al 9°
               p Se divide en educación básica y secundaria
-      .col.col-lg-1_5
+      .col.mmw
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f17.svg' alt='AvatarTop')
           .tarjeta.fagm
@@ -185,7 +185,7 @@
               h2.cs Educación Media
               p Grados:<br>Del 10° al 11°
               p Es el tercer nivel formativo en el país
-      .col.col-lg-1_5
+      .col.mmw
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f18.svg' alt='AvatarTop')
           .tarjeta.fagm
@@ -194,7 +194,7 @@
               p Niveles:
               p Técnico<br>Tecnólogo<br>Universitaria
               p Es el cuarto nivel de formación y es más amplio
-      .col.col-lg-1_5
+      .col.mmw
         .tarjeta-avatar.hoverfcs
           img(src='@/assets/curso/t1/f19.svg' alt='AvatarTop')
           .tarjeta.fagm

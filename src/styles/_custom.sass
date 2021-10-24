@@ -114,10 +114,6 @@ $secundario20: #0d4aad35
   .tabs-c, .t-20rem
     margin-top: -20rem
 
-.traslapeLoR
-  .col-lg-6
-    margin-left: -25%
-
 .border24
   border-radius: 0 2rem
 
@@ -183,6 +179,11 @@ button.carousel-control-prev
 .w73px
   width: 73px
 
+.mmw
+  min-width: 210px
+  max-width: 250px
+  margin-bottom: 1rem
+
 .cajon-b
   &--c
     &::before
@@ -199,3 +200,23 @@ button.carousel-control-prev
   border-bottom: 2px solid $color-primario
   width: 90%
   margin: auto
+
+@media screen and ( min-width:  992px)
+  .traslapeLoR
+    .col-lg-6
+      margin-left: -25%
+  
+
+@media screen and ( max-width: 991px )
+  figure
+    img
+      max-width: 300px
+      margin: 1rem auto
+
+@media ( max-width: 575px )
+  button.carousel-control-next, button.carousel-control-prev
+    background-color: transparent !important
+    span
+      background-color: $color-secundario
+      border-radius: 50%
+      border: solid $color-secundario 5px
