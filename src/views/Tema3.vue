@@ -122,7 +122,7 @@
         .px-4
           p.mb-0 La acción de trabajar juntamente con otro u otros con el propósito de alcanzar un mismo fin (tareas o trabajos solicitados) La destreza de colaborar puede desarrollarse entre grupos: instructores, aprendices, investigadores; entre otros que colaboran, compartiendo recursos, para alcanzar unos propósitos específicos durante un período de tiempo determinado.
         .cajon-b.cajon-b--c.color-primario.p-4
-          p.mb-0 En estas interacciones se conforman redes de conocimiento, donde las emociones tiene un papel determinante ya que éstas juegan un papel protagónico en las relaciones interpersonales. identificarlas, nombrarlas más profundo y dar respuestas favorables según los contextos. El trabajo colaborativo precisa desarrollar la inteligencia emocional y favorecer aquellas emociones que faciliten la búsqueda colectiva de la satisfacción de las necesidades de todos.
+          p.mb-0 En estas interacciones se conforman redes de conocimiento, donde las emociones tiene un papel determinante ya que éstas juegan un papel protagónico en las relaciones interpersonales. Identificarlas, nombrarlas más profundo y dar respuestas favorables según los contextos. El trabajo colaborativo precisa desarrollar la inteligencia emocional y favorecer aquellas emociones que faciliten la búsqueda colectiva de la satisfacción de las necesidades de todos.
       .col-lg-5
         figure
           img(src='@/assets/curso/t3/f10.png' alt='imagen relacionada')

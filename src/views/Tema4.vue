@@ -64,33 +64,41 @@
     .col-lg-11.bg-img-banner.mx-auto.mb-5.p-4.texto-blanco.tarjeta
       SlyderA
         .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+          .col-1
+          .col.mb-4.mb-md-0
             h3 Tecnológica
             p Tecnológica o centrada en el seguimiento de los avances de la técnica y en particular de la tecnología y de las posibilidades que ofrece para mejorar los productos, procesos o servicios.
           .col-md-6
             figure
               img(src='@/assets/curso/t4/f4.png' alt='Imagen relacionada')
+          .col-1
         .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+          .col-1
+          .col.mb-4.mb-md-0
             h3 Competitiva
             p En este caso se centra en los competidores tanto actuales como potenciales de las organizaciones. Incluye la vigilancia a aquellos agentes que por su servicio o producto puedan ser sustitutivos de los actuales productos o servicios de la empresa, y por tanto potenciales competidores.
           .col-md-6
             figure
               img(src='@/assets/curso/t4/f5.png' alt='Imagen relacionada')
+          .col-1
         .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+          .col-1
+          .col.mb-4.mb-md-0
             h3 Comercial 
             p Gestión sistemática de las relaciones con los clientes y proveedores. Es una problemática muy específica con soluciones informáticas de gestión de relaciones con los clientes conocidos como <em>Customer Relationship Managemnet</em> (CRM).
           .col-md-6
             figure
               img(src='@/assets/curso/t4/f6.png' alt='Imagen relacionada')
+          .col-1
         .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
+          .col-1
+          .col.mb-4.mb-md-0
             h3 Del Entorno
             p Centra la observación sobre el conjunto de aspectos sociales, legales y culturales que puedan afectar a la empresa como a la competencia. Normalmente suelen incluirse en alguno de los procesos anteriores.
           .col-md-6
             figure
               img(src='@/assets/curso/t4/f7.png' alt='Imagen relacionada')
+          .col-1
             
     Separador
     #t_4_1.titulo-segundo

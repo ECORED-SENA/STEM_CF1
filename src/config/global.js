@@ -230,8 +230,7 @@ export default {
     },
     {
       referencia:
-        'Powell, W.W. y Snellman, K. (2004). The knowledge economy. Annual Review of Sociology, 30, 199–220. Recuperado de ',
-      link: 'https://scholar.harvard.edu/',
+        'Powell, W.W. y Snellman, K. (2004). The knowledge economy. Annual Review of Sociology, 30, 199–220.',
     },
     {
       referencia:
@@ -245,7 +244,6 @@ export default {
     },
     {
       referencia: 'T&E innovate develop (2018) La 4ª revolución Industrial. ',
-      link: 'https://www.tye-solutions.com/post?id=4',
     },
     {
       referencia:
@@ -445,6 +443,11 @@ export default {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

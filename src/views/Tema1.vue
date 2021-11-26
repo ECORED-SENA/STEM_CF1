@@ -39,7 +39,7 @@
           .row.justify-content-center.align-items-center.texto-blanco
             .col-lg-7
               h3 Jerome Bruner
-              p El aprendizaje es el proceso de reordenar o transformar los datos de modo que permitan irá a una nueva comprensión, denominado aprendizaje por descubrimiento, se destaca la capacidad para resolver problemas que es la meta principal, el conocimiento verbal es la clave de la transferencia, el método de descubrimiento es el principal para transmitir el conocimiento.
+              p El aprendizaje es el proceso de reordenar o transformar los datos de modo que permitan ir a una nueva comprensión, denominado aprendizaje por descubrimiento, se destaca la capacidad para resolver problemas que es la meta principal, el conocimiento verbal es la clave de la transferencia, el método de descubrimiento es el principal para transmitir el conocimiento.
             .col-lg-4.px-5
               figure
                 img(src='@/assets/curso/t1/f4.png' alt='imagen relacionada')
@@ -99,7 +99,7 @@
               | El contraste de la formación recibida y la realidad actual nos permite que tomen decisiones acertadas para continuar manteniendo el desarrollo y el liderazgo mundial.
             li 
               i.fas.fa-robot.cp.me-4
-              | Los nuevos avances configuran nuevas situaciones como la posibilidad del trabajo remoto, lo que genera en las empresas la necesidad de estar interconectadas, ya sé porque sus empleados trabajan desde casa o porque las sedes de sus empresas quedan ubicadas en diferentes lugares del mundo, estas nuevas necesidades demandas nuevas formas de enfrentar la realidad y exige el fortalecimiento y desarrollo de ciertas habilidades.
+              | Los nuevos avances configuran nuevas situaciones como la posibilidad del trabajo remoto, lo que genera en las empresas la necesidad de estar interconectadas, ya sea porque sus empleados trabajan desde casa o porque las sedes de sus empresas quedan ubicadas en diferentes lugares del mundo, estas nuevas necesidades demandas nuevas formas de enfrentar la realidad y exige el fortalecimiento y desarrollo de ciertas habilidades.
 
       #t_1_1.titulo-segundo
         h2 1.1 Generalidades de la educación

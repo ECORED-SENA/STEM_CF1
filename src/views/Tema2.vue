@@ -20,7 +20,7 @@
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-5.fcs.border134.p-5.order-lg-first.order-last
         p.text-center <i class="fas fa-quote-left cac text-big"></i>
-        p.texto-blanco.text-center Históricamente el conocimiento es el pilar y desarrollo de la humanidad, necesario para la búsqueda del bienestar social del ser humano y, además, para la reducción de la pobreza y la falta de equidad social, en la actualidad es considerado un detonador del desarrollo económico de los países en el mundo, quienes trascienden en nuevos y mayores indicadores de competitividad, particularmente para las industrias la productividad se configura como un conocimiento unido al desarrollo del componente tecnológico, donde se vienen constituyendo elementos claves que potencializar y dinamizar las economías a nivel mundial. 
+        p.texto-blanco.text-center Históricamente el conocimiento es el pilar y desarrollo de la humanidad, necesario para la búsqueda del bienestar social del ser humano y, además, para la reducción de la pobreza y la falta de equidad social, en la actualidad es considerado un detonador del desarrollo económico de los países en el mundo, quienes trascienden en nuevos y mayores indicadores de competitividad, particularmente para las industrias la productividad se configura como un conocimiento unido al desarrollo del componente tecnológico, donde se vienen constituyendo elementos claves que potencializan y dinamizan las economías a nivel mundial. 
         div.floatRight
           h6 <span class='text-white'>Según Powell & Snellman (2004).</span> <i class="fas fa-square cac ms-4" style='font-size: 2rem; vertical-align:middle;'></i>
       .col-lg-5.bg2.order-lg-last.order-first
